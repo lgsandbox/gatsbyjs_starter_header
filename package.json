@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "gatsby-template-starter-styledcomponents-header",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "personal gatsby starter that starts at the head",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Landon G",
   "dependencies": {
     "babel-plugin-styled-components": "^1.13.2",
     "gatsby": "^3.13.1",

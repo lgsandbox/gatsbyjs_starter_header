@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `bigGrow Web`,
-    description: `Web solutions with consistent and continuous development, built to scale with you as your business grows.`,
+    description: `Web solutions with consistent and continuous development, built to scale with you as your business grows!`,
     author: `bigGrow Labs`,
     siteUrl: `https://biggrow-productionbuild.netlify.app`,
   },
