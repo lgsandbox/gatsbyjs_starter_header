@@ -4,7 +4,7 @@ import PropTypes from "prop-types"
 import { Container } from '../components/styles/Container.styled'
 import { StyledHeader } from '../components/styles/Header.styled'
 import { Nav } from './styles/Header.styled'
-import { StaticImage } from "gatsby-plugin-image"
+
 import { Button } from './styles/Button.styled'
 
 const Header = ({ siteTitle }) => (
@@ -14,8 +14,7 @@ const Header = ({ siteTitle }) => (
       <Container>
         <Nav>
           
-        <StaticImage 
-          src="../images/biggrow-main.png" />
+
         <Button>Get Started</Button>
 
         </Nav>
