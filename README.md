@@ -1,4 +1,4 @@
-# Starter template with styled-components library
+# Minimalist starter template with styled-components library
 
 deployed on netlify here:
 
